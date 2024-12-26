@@ -23,7 +23,7 @@ This project is a set of scripts and a C program that allows users to "graffiti"
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FileGraffitiTool.git
+   git clone https://github.com/omerdikyol/FileGraffitiTool.git
    cd FileGraffitiTool
    ```
 2. Compile the filegraffiti program:
